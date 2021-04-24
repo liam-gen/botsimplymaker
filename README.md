@@ -2,7 +2,7 @@
 
 ---
 
-**Important : Veuillez ne pas toucher au fichier `code.py` pour éviter tout problème **
+**Important : Veuillez ne pas toucher au fichier `code.py` pour éviter tout problème**
 
 ---
 
